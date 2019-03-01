@@ -33,7 +33,7 @@ const Policy = () => (
         <div className="tile is-parent">
           <article className="tile is-child notification is-success">
             <div className="content">
-              <p className="title is-size-5">５年間で身につけるスキル</p>
+              <p className="title is-size-4">５年間で身につけるスキル</p>
               <div className="content">
                 <ol>
                   <li className="is-size-5">
