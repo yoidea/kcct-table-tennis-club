@@ -9,6 +9,46 @@ const OB = () => (
     <SEO title="OB紹介" />
     <div className="container">
       <h2 className="title has-text-link" style={{marginTop: "1em"}}>OB紹介</h2>
+      <div class="columns">
+        <div class="column">
+          <h3 className="title is-size-4">田中太郎</h3>
+          <figure className="image is-square">
+            <img src={picture} />
+          </figure>
+        </div>
+        <div class="column">
+          <h3 className="title is-size-4">田中太郎</h3>
+          <figure className="image is-square">
+            <img src={picture} />
+          </figure>
+        </div>
+        <div class="column">
+          <h3 className="title is-size-4">田中太郎</h3>
+          <figure className="image is-square">
+            <img src={picture} />
+          </figure>
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column">
+          <h3 className="title is-size-4">田中太郎</h3>
+          <figure className="image is-square">
+            <img src={picture} />
+          </figure>
+        </div>
+        <div class="column">
+          <h3 className="title is-size-4">田中太郎</h3>
+          <figure className="image is-square">
+            <img src={picture} />
+          </figure>
+        </div>
+        <div class="column">
+          <h3 className="title is-size-4">田中太郎</h3>
+          <figure className="image is-square">
+            <img src={picture} />
+          </figure>
+        </div>
+      </div>
     </div>
   </Layout>
 )
