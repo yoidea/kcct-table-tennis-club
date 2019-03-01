@@ -4,6 +4,8 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
+const picture = `https://2.bp.blogspot.com/-PbQfaT4hfpo/UxbLaywOLFI/AAAAAAAAd9s/ihzglX6ZVYQ/s400/hanataba_man.png`
+
 const OB = () => (
   <Layout>
     <SEO title="OB紹介" />
