@@ -18,15 +18,6 @@ const Header = ({ siteTitle }) => (
           <Link to="/ob/" className="navbar-item">OB紹介</Link>
           <Link to="/supporter/" className="navbar-item">六神会</Link>
         </div>
-        <div className="navbar-end">
-          <div className="navbar-item">
-            <div className="buttons">
-              <Link className="button is-light">
-                Log in
-              </Link>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </header>
