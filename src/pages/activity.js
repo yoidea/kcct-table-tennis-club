@@ -16,35 +16,31 @@ const Activity = () => (
           <div className="tile">
             <div className="tile is-parent is-vertical">
               <article className="tile is-child notification is-light">
-                <p className="title is-size-4">2019-02-14　優勝した。</p>
+                <p className="title is-size-4">2019-03-14　練習試合</p>
                 <div className="content">
-                  <figure className="image is-128x128">
-                    <img src="https://3.bp.blogspot.com/-LJkn2jnakWg/Wc8f2HUdW-I/AAAAAAABHIo/DgCqHC9NkBU49PyPynrAd18aWYwS4jvFQCLcBGAs/s800/pose_mesen_uekara_man.png" />
-                  </figure>
+                  <p>〇〇高等学校と練習試合を行いました。結果は…</p>
+                  <a className="button">続きを読む</a>
                 </div>
               </article>
               <article className="tile is-child notification is-light">
-                <p className="title is-size-4">2019-02-15　優勝した。</p>
+                <p className="title is-size-4">2019-03-15　練習試合</p>
                 <div className="content">
-                  <figure className="image is-128x128">
-                    <img src="https://3.bp.blogspot.com/-LJkn2jnakWg/Wc8f2HUdW-I/AAAAAAABHIo/DgCqHC9NkBU49PyPynrAd18aWYwS4jvFQCLcBGAs/s800/pose_mesen_uekara_man.png" />
-                  </figure>
+                  <p>〇〇高等学校と練習試合を行いました。結果は…</p>
+                  <a className="button">続きを読む</a>
                 </div>
               </article>
               <article className="tile is-child notification is-light">
-                <p className="title is-size-4">2019-02-16　優勝した。</p>
+                <p className="title is-size-4">2019-03-16　練習試合</p>
                 <div className="content">
-                  <figure className="image is-128x128">
-                    <img src="https://3.bp.blogspot.com/-LJkn2jnakWg/Wc8f2HUdW-I/AAAAAAABHIo/DgCqHC9NkBU49PyPynrAd18aWYwS4jvFQCLcBGAs/s800/pose_mesen_uekara_man.png" />
-                  </figure>
+                  <p>〇〇高等学校と練習試合を行いました。結果は…</p>
+                  <a className="button">続きを読む</a>
                 </div>
               </article>
               <article className="tile is-child notification is-light">
-                <p className="title is-size-4">2019-02-17　優勝した。</p>
+                <p className="title is-size-4">2019-03-17　練習試合</p>
                 <div className="content">
-                  <figure className="image is-128x128">
-                    <img src="https://3.bp.blogspot.com/-LJkn2jnakWg/Wc8f2HUdW-I/AAAAAAABHIo/DgCqHC9NkBU49PyPynrAd18aWYwS4jvFQCLcBGAs/s800/pose_mesen_uekara_man.png" />
-                  </figure>
+                  <p>〇〇高等学校と練習試合を行いました。結果は…</p>
+                  <a className="button">続きを読む</a>
                 </div>
               </article>
             </div>
