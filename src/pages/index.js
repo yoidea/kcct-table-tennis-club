@@ -22,9 +22,6 @@ const IndexPage = () => (
       </div>
     </section>
     <div className="container">
-      <h2 className="title has-text-link" style={{marginTop: "1em"}}>更新</h2>
-
-
       <h2 className="title has-text-link" style={{marginTop: "1em"}}>活動日</h2>
       <iframe 
         src={`https://calendar.google.com/calendar/b/1/embed`}
