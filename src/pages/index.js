@@ -11,23 +11,17 @@ const IndexPage = () => (
     <SEO title="Home" />
     <section className="hero is-primary is-large" style={{
       background: `url(${cover})`,
-      backgroundPosition: "center"
+      backgroundPosition: "center",
     }}>
       <div className="hero-body">
         <div className="container">
-          <h1 className="title">
+          <h1 className="title is-size-1">
             神戸高専卓球部
           </h1>
-          <h2 className="subtitle">
-            Primary subtitle
-          </h2>
         </div>
       </div>
     </section>
     <div className="container">
-      <h2 className="title has-text-link" style={{marginTop: "1em"}}>更新</h2>
-
-
       <h2 className="title has-text-link" style={{marginTop: "1em"}}>活動日</h2>
       <iframe 
         src={`https://calendar.google.com/calendar/b/1/embed`}

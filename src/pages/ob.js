@@ -3,8 +3,7 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-
-const picture = `https://2.bp.blogspot.com/-PbQfaT4hfpo/UxbLaywOLFI/AAAAAAAAd9s/ihzglX6ZVYQ/s400/hanataba_man.png`
+import face from "../images/man.png"
 
 const OB = () => (
   <Layout>
@@ -15,19 +14,19 @@ const OB = () => (
         <div class="column">
           <h3 className="title is-size-4">田中太郎</h3>
           <figure className="image is-square">
-            <img src={picture} />
+            <img src={face} />
           </figure>
         </div>
         <div class="column">
           <h3 className="title is-size-4">田中太郎</h3>
           <figure className="image is-square">
-            <img src={picture} />
+            <img src={face} />
           </figure>
         </div>
         <div class="column">
           <h3 className="title is-size-4">田中太郎</h3>
           <figure className="image is-square">
-            <img src={picture} />
+            <img src={face} />
           </figure>
         </div>
       </div>
@@ -35,19 +34,19 @@ const OB = () => (
         <div class="column">
           <h3 className="title is-size-4">田中太郎</h3>
           <figure className="image is-square">
-            <img src={picture} />
+            <img src={face} />
           </figure>
         </div>
         <div class="column">
           <h3 className="title is-size-4">田中太郎</h3>
           <figure className="image is-square">
-            <img src={picture} />
+            <img src={face} />
           </figure>
         </div>
         <div class="column">
           <h3 className="title is-size-4">田中太郎</h3>
           <figure className="image is-square">
-            <img src={picture} />
+            <img src={face} />
           </figure>
         </div>
       </div>
