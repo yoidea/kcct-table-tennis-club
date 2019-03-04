@@ -11,16 +11,13 @@ const IndexPage = () => (
     <SEO title="Home" />
     <section className="hero is-primary is-large" style={{
       background: `url(${cover})`,
-      backgroundPosition: "center"
+      backgroundPosition: "center",
     }}>
       <div className="hero-body">
         <div className="container">
-          <h1 className="title">
+          <h1 className="title is-size-1">
             神戸高専卓球部
           </h1>
-          <h2 className="subtitle">
-            Primary subtitle
-          </h2>
         </div>
       </div>
     </section>
